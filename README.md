@@ -4,4 +4,3 @@
 # Играйте и наслаждайтесь, админы постоянно на сервере.
 ![PIKI]
 https://i.postimg.cc/HxqHcNQf/Picsart-24-03-09-16-26-12-471.jpg
-https://i.postimg.cc/HxqHcNQf/Picsart-24-03-09-16-26-12-471.jpg
