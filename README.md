@@ -3,4 +3,4 @@
 # Роли выдают в зависимости от вашей активности)))
 # Играйте и наслаждайтесь, админы постоянно на сервере.
 ![PIKI]
-(<a href='https://postimg.cc/Q9Jvv0Yb' target='_blank'><img src='https://i.postimg.cc/HxqHcNQf/Picsart-24-03-09-16-26-12-471.jpg' border='0' alt='Picsart-24-03-09-16-26-12-471'/></a>)
+<a href='https://postimg.cc/Q9Jvv0Yb' target='_blank'><img src='https://i.postimg.cc/HxqHcNQf/Picsart-24-03-09-16-26-12-471.jpg' border='0' alt='Picsart-24-03-09-16-26-12-471'/></a>
