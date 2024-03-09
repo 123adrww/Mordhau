@@ -3,4 +3,4 @@
 # Роли выдают в зависимости от вашей активности)))
 # Играйте и наслаждайтесь, админы постоянно на сервере.
 ![PIKI]
-(https://github.com//123adrww/Mordhau/blob/main/Picsart_24-03-09_16-26-12-471.jpg)
+(https://github.com/123adrww/Mordhau/blob/main/Picsart_24-03-09_16-26-12-471.jpg)
